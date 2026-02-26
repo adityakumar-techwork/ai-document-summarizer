@@ -36,3 +36,8 @@ To understand the AWS SDK v2 pieces using Cursor indexing:
 - **Jump to definitions** on `BedrockRuntimeClient`, `InvokeModelRequest`, and `InvokeModelResponse` to see the generated SDK types.
 - **Search for symbols/usages** like `invokeModel`, `modelId`, and `SdkBytes.fromUtf8String` to trace how requests are built and serialized.
 - **Search in dependencies** (Cursor setting) for `InvokeModelRequest.Builder` or `BedrockRuntimeClientBuilder` to see the underlying patterns used across AWS SDK v2 services.
+
+## 🛠 Featured Project: AI Document Summarizer
+* **Tech:** Java 17, AWS Bedrock, Maven
+* **Built with:** Cursor & Cline
+* **Summary:** A backend utility that leverages Claude 3 via AWS to automatically condense long documents into executive summaries.
