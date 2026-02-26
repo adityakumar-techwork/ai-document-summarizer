@@ -1,0 +1,1 @@
+Artificial Intelligence is transforming how we write code. Tools like Cursor and Cline allow developers to automate repetitive tasks and focus on high-level architecture. Java remains a powerful language for enterprise AI integration.
